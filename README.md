@@ -1,0 +1,5 @@
+Unlock the full potential of web development with our beginner-friendly to intermediate JavaScript training! Start with the basics and gradually dive into more advanced topics, mastering modern techniques for building dynamic, interactive websites. Learn to work with conditional statements, functions, arrays, and classes. Integrate powerful APIs, handle asynchronous operations, and create responsive, user-friendly interfaces. Our hands-on projects, expert-led tutorials, and supportive community will elevate your coding skills and prepare you for a successful career in web development. Join us and transform your passion into expertise!
+
+*** Initially start by exploring Data types and Variables --> Operators --> Loops --> Conditional Statements and Strings --> Arrays --> Functions --> Events --> Classes --> CallBacks --> APIs. ***
+
+*** Further this course can be used to build real-time applications,includes Rock_Paper_Scissors (https://github.com/POOJAJAIN36/Rock_Paper_Scissors) and Currency_Converter (https://github.com/POOJAJAIN36/Currency_Converter) Projects. ***
